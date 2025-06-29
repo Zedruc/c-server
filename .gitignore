@@ -1,0 +1,11 @@
+output/**
+**/.o
+*.o
+**/.d
+*.d
+**/.db
+*.db
+**/public/*
+.vscode/*
+**/*.rest
+.env
